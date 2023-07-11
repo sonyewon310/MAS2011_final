@@ -24,6 +24,10 @@
 
 6. Enjoy!
 
+7. Youtube link
+
+https://youtu.be/lotSazuyEnE
+
 <img width="700" alt="스크린샷 2023-07-12 오전 12 45 05" src="https://github.com/sonyewon310/MAS2011_final/assets/138377626/ee06d0fc-2649-4dbe-8e15-15a359f4ec8b">
 <img width="700" alt="스크린샷 2023-07-12 오전 12 45 16" src="https://github.com/sonyewon310/MAS2011_final/assets/138377626/4aa857a1-e236-4e5b-81a2-806921a1bf49">
 <img width="700" alt="스크린샷 2023-07-12 오전 12 45 10" src="https://github.com/sonyewon310/MAS2011_final/assets/138377626/774e3300-cf29-4d45-931d-ef150786973e">
